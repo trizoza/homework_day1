@@ -1,0 +1,17 @@
+Week  What?
+1-2 Ruby
+3 Databases+SQL
+4 Web+Sinatra
+5 Project individual
+(6-7) XMAS
+6 Java
+7 Android
+8 Project individual
+9 Computer Science / CV / PDA
+10  JavaScript
+11  JavaScript
+12  JavaScript
+13  Group Project
+14  WebFrameworks React
+15  Rails
+16  Final Project

@@ -1,0 +1,1 @@
+echo "shame shame shame shame" | say
